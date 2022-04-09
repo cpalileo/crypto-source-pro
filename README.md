@@ -26,8 +26,8 @@ https://stark-badlands-81113.herokuapp.com/
 
 ## Screenshot
 
-![ScreenShot](website-screenshot.png)
+![ScreenShot](https://raw.githubusercontent.com/cpalileo/crypto-source-pro/main/public/assets/images/CSP-Screen.jpg)
 
 ## Contributors
 
-Andew Nohr, Christopher Palileo, Jason Greena, Devin Reina, Giang Nguyen, Sally Chan
+Jason Greena, Devin Reina, Christopher Palileo, Giang Nguyen, Andrew Nohr, Sally Chan
