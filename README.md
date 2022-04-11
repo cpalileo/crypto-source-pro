@@ -24,6 +24,16 @@ https://github.com/cpalileo/crypto-source-pro
 
 https://stark-badlands-81113.herokuapp.com/
 
+## Link to Class Presentation:
+
+https://docs.google.com/presentation/d/1Qkd8uBPnljyhYmo6u-wyBETnMA80Xuhq44f4U2-b6uU/edit?usp=sharing
+
+## Draft Concepts:
+
+https://miro.com/app/board/uXjVO_-AvgM=/?share_link_id=399106040098
+
+https://miro.com/app/board/uXjVOACT98A=/?share_link_id=728404784014
+
 ## Screenshot
 
 ![ScreenShot](https://raw.githubusercontent.com/cpalileo/crypto-source-pro/main/public/assets/images/CSP-Screen.jpg)
@@ -31,3 +41,7 @@ https://stark-badlands-81113.herokuapp.com/
 ## Contributors
 
 Jason Greena, Devin Reina, Christopher Palileo, Giang Nguyen, Andrew Nohr, Sally Chan
+
+## Updated Portfolio for Christopher Palileo
+
+https://cpalileo.github.io/cpalileo-portfolio/
